@@ -1,5 +1,5 @@
 import type { ClothingRecommendation } from "../types/recommendationType";
-import type { WeatherApiResponse } from "../types/WeatherType";
+import type { WeatherApiResponse } from "../types/weatherType";
 
 export function getClothingRecommendation (
   weatherData: WeatherApiResponse
